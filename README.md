@@ -20,4 +20,4 @@
  
 ## 📸 Example Output
 
-![ClinicalTrialANOVA](ClinicalTrial-ANOVA.png)
+![ClinicalTrialANOVA](clinicaltrial-anova.png)
